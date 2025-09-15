@@ -1,0 +1,34 @@
+# Unreal Engine 5 Project - Hephaestus Lab
+
+# Build artifacts
+[Bb]inaries/
+[Bu]ild/
+DerivedDataCache/
+Intermediate/
+Saved/
+Platforms/
+
+# IDE-specific: Rider, VSCode, Visual Studio
+.idea/
+.vscode/
+.vs/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.opendb
+*.VC.db
+
+# Xcode (Mac)
+*.xcodeproj
+*.xcworkspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Crash reports
+*.dmp
+
+# Backup files
+*.bak
